@@ -273,10 +273,11 @@ footer .footer-properity nav ul li a:hover{
     transition-duration: 500ms;
 }
 .head-tablet{
-    display: block;
+    display: none;
     color: #ffffff;
     font-size: 25px;
 }
+
 @media (max-width:992px){
     .head-properity{
         display: none;}
